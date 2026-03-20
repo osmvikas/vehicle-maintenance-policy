@@ -1,0 +1,76 @@
+============================================================
+PLAY STORE LISTING — Vehicle Maintenance Manager
+============================================================
+
+APP TITLE (50 chars max):
+Vehicle Maintenance Manager
+
+SHORT DESCRIPTION (80 chars max):
+Track vehicle service history, expenses & get PDF reports instantly.
+
+FULL DESCRIPTION (4000 chars max):
+---
+🔧 Vehicle Maintenance Manager — Your Personal Vehicle Service Tracker
+
+Keep your vehicles in top shape with Vehicle Maintenance Manager. Whether you own a bike, scooter, car or SUV — track every service, repair and expense in one place.
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+KEY FEATURES
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚗 Manage Multiple Vehicles
+• Add any number of 2-wheelers or 4-wheelers
+• Store vehicle details: maker, model, registration number
+• Get a quick overview of total maintenance spend per vehicle
+
+🔧 Maintenance Record Tracking
+• Log every service with description, amount and date
+• Categorize as Normal Service or Part Replacement
+• View complete date-wise history for each vehicle
+
+📄 PDF Backup & Reports
+• Download a full maintenance report as a PDF with one tap
+• Report includes all vehicles, records and total expenses
+• Easy to share with mechanics, insurers or family
+
+🔐 Secure Google Sign-In
+• Sign in safely with your existing Google account
+• No passwords to remember or manage
+• Your data stays private on your device
+
+📊 Expense Summary
+• See total maintenance cost per vehicle at a glance
+• Track spending on Normal Service vs Part Replacements
+• Identify your most expensive vehicles
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+WHO IS THIS FOR?
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ Vehicle owners who want to track service history
+✅ People who want to monitor maintenance expenses
+✅ Anyone who needs records for insurance or resale
+✅ Families with multiple vehicles
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+WHY CHOOSE US?
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+• 100% free to use
+• No ads
+• Works offline — data stored securely on your device
+• Clean, simple and easy-to-use interface
+• PDF export for offline records
+
+Download now and never miss a service record again!
+
+---
+
+KEYWORDS (for ASO):
+vehicle maintenance, car service tracker, bike service record, vehicle expense tracker, car maintenance log, two wheeler service, four wheeler maintenance, vehicle history, service reminder, car repair tracker, maintenance record, vehicle log book
+
+============================================================
+CATEGORY: Auto & Vehicles
+CONTENT RATING: Everyone
+PRICING: Free
+============================================================
